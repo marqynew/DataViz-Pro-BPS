@@ -2,6 +2,8 @@
 
 Website ini membantu Anda memuat data (Excel), memilih tabel dan tahun, melihat tabel hasil, memvisualisasikan dalam berbagai jenis chart, serta mengekspor ke PDF/Excel/CSV.
 
+![Screenshot](screencapture-datavizprokotamedan-netlify-app-2025-09-02-18_23_25.png)
+
 ## Fitur Utama
 - Upload Excel (.xlsx/.xls), pendeteksian multi-sheet otomatis
 - Pilih maksimal 2 tabel untuk dianalisis secara bersamaan
